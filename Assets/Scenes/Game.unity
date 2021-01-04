@@ -1291,3 +1291,4 @@ MonoBehaviour:
   ball: {fileID: 1240424231}
   playerCamera: {fileID: 1627815357}
   ballDistance: 2.25
+  ballThrowingForce: 450
