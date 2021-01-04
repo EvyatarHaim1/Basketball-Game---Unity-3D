@@ -165,6 +165,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 215731554}
+  - component: {fileID: 215731555}
   m_Layer: 0
   m_Name: GameController
   m_TagString: Untagged
@@ -189,6 +190,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &215731555
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 215731553}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e946eabcb1306044e8bfac68fdfefc59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 1934151699}
+  resetTimer: 5
 --- !u!1 &351005106
 GameObject:
   m_ObjectHideFlags: 0
@@ -1292,3 +1307,4 @@ MonoBehaviour:
   playerCamera: {fileID: 1627815357}
   ballDistance: 2.25
   ballThrowingForce: 450
+  holdingBall: 1
