@@ -1,6 +1,15 @@
 # Basketball-Game-Unity-3D
 
-Game URL - 
+Game URL - https://sharemygame.com/@EvyatarHaim/basketball-unity-3d-game
+
+Player control:
+* A - Right
+* D - Left
+* W - Forward
+* S - Backward
+* Space - Jump
+* Left-Mouse - Throwing the ball
+
 
 * Working with game objects and transforms, both from the Unity Editor and from scripts.
 * Physics and collision
