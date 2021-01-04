@@ -9,4 +9,4 @@ Game URL -
 * Scripting a basic game using the Unity API
 * Putting it all together in a fun project!
 
-![alt text](https://github.com/EvyatarHaim1/Linkedin-React/blob/main/src/screenView.png)
+![alt text](https://github.com/EvyatarHaim1/Basketball-Game-Unity-3D/blob/main/Assets/Project/screenView.png)
